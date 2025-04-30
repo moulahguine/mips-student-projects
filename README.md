@@ -4,7 +4,7 @@ This repository contains four beginner-level MIPS assembly programs written and 
 
 ---
 
-## 🧠 Overview
+## Overview
 
 Each file in this project is a simple translation of a small C program into MIPS. No macros, no shortcuts — just basic student-style code using core instructions and syscalls.
 
@@ -17,7 +17,7 @@ Each file in this project is a simple translation of a small C program into MIPS
 
 ---
 
-## 💾 How to Run
+## How to Run
 
 You can run these files in the **MARS MIPS Simulator**:
 
@@ -28,21 +28,27 @@ You can run these files in the **MARS MIPS Simulator**:
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-### 🧪 Running `q1_compare.asm`
+### Running `q1_compare.asm`
 
 ![q1_compare](images/q1_compare.png)
 
-### 🧪 Running `q2_even_numbers.asm`
+### Running `q2_even_numbers.asm`
 
 ![q2_even_numbers](images/q2_even_numbers.png)
 
-> Place your actual screenshots inside a `screenshots/` folder in your repo. Name them like above.
+### Running `q3_array_double.asm`
+
+![q2_even_numbers](images/q3_array_double.png)
+
+### Running `q4_array_add.asm`
+
+![q2_even_numbers](images/q4_array_add.png)
 
 ---
 
-## 🔍 What I Learned
+## What I Learned
 
 - Using `syscall` for input/output
 - Comparing values with `bgt`, `ble`, `beq`
