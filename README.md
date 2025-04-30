@@ -10,10 +10,10 @@ This repository contains four beginner-level MIPS assembly programs written and 
 
 ### Converted MIPS Code
 <p align="center">
-  <img src="images/code1.png" width="200" height="100vh"/>
-  <img src="images/code2.png" width="200" height="100vh"/>
-  <img src="images/code3.png" width="200" height="100vh"/>
-  <img src="images/code4.png" width="200" height="100vh"/>
+  <img src="images/code1.png" width="200"/>
+  <img src="images/code2.png" width="200"/>
+  <img src="images/code3.png" width="200"/>
+  <img src="images/code4.png" width="200"/>
 </p>
 
 ---
