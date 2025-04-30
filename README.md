@@ -5,10 +5,10 @@ This repository contains four beginner-level MIPS assembly programs written and 
 ---
 ## My Homework
 
-### 🧑‍💻 Original C Code
+### Original C Code
 ![C Code](images/code.png)
 
-### ⚙️ Converted MIPS Code
+### Converted MIPS Code
 <p align="center">
   <img src="amgaes/code1.png" width="200"/>
   <img src="amgaes/code2.png" width="200"/>
