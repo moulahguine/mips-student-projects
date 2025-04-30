@@ -32,11 +32,11 @@ You can run these files in the **MARS MIPS Simulator**:
 
 ### 🧪 Running `q1_compare.asm`
 
-![q1_compare](screenshots/q1_compare.png)
+![q1_compare](images/q1_compare.png)
 
 ### 🧪 Running `q2_even_numbers.asm`
 
-![q2_even_numbers](screenshots/q2_even_numbers.png)
+![q2_even_numbers](images/q2_even_numbers.png)
 
 > Place your actual screenshots inside a `screenshots/` folder in your repo. Name them like above.
 
