@@ -3,7 +3,20 @@
 This repository contains four beginner-level MIPS assembly programs written and tested using the [MARS simulator](http://courses.missouristate.edu/KenVollmar/MARS/). These programs are based on basic C code exercises (conditionals, loops, arrays) and rewritten step-by-step in MIPS to help understand how low-level logic works.
 
 ---
+## My Homework
 
+### 🧑‍💻 Original C Code
+![C Code](images/code.png)
+
+### ⚙️ Converted MIPS Code
+<p align="center">
+  <img src="amgaes/code1.png" width="200"/>
+  <img src="amgaes/code2.png" width="200"/>
+  <img src="images/code3.png" width="200"/>
+  <img src="images/code4.png" width="200"/>
+</p>
+
+---
 ## Overview
 
 Each file in this project is a simple translation of a small C program into MIPS. No macros, no shortcuts — just basic student-style code using core instructions and syscalls.
