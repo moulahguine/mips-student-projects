@@ -1,6 +1,6 @@
 # MIPS Assembly Practice – Student Projects
 
-This repository contains four beginner-level MIPS assembly programs written and tested using the [MARS simulator](http://courses.missouristate.edu/KenVollmar/MARS/). These programs are based on basic C code exercises (conditionals, loops, arrays) and rewritten step-by-step in MIPS to help understand how low-level logic works.
+This repository contains four beginner-level MIPS assembly programs written and tested using the [MARS simulator](http://courses.missouristate.edu/KenVollmar/MARS/). These programs are based on basic C code exercises (conditionals, loops, arrays) and rewritten step-by-step in MIPS to help understand how low-level logic works
 
 ---
 ## My Homework
